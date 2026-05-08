@@ -1,0 +1,24 @@
+[ 
+
+    {
+        "company": "Jasa Teknik Indonesia",
+		"logo":"images/logo-jastek.JPG",
+        "position": "Asisten Ahli K3",
+        "year": "Agustus 2024 - januari 2025",
+        "description": "Selama masa magang sebagai Asisten Ahli K3 di PT Jasa Teknik Indonesia, saya mengikuti tujuh kegiatan inspeksi dan riksa uji, meliputi instalasi listrik, penangkal petir, PTP, PAA, serta fire alarm, guna memastikan kelayakan operasional dan kepatuhan terhadap standar K3. Saya juga melakukan identifikasi bahaya dan penilaian risiko bersama ahli K3 untuk memitigasi potensi kecelakaan kerja di lingkungan teknis. Selain itu, saya menyusun dokumentasi teknis dan laporan komprehensif pasca riksa uji untuk memastikan validitas data hasil inspeksi."
+    },
+    {
+        "company": "PPSDM MIGAS CEPU",
+		"logo":"images/logo ppsdm migas.jpg",
+        "position": "Electrical Engineering",
+        "year": "Maret 2025",
+        "description": "Selama menjalani magang sebagai Electrical Engineering di PPSDM Migas Cepu, saya melakukan studi mendalam terkait integrasi sistem energi terbarukan (Solar PV) dengan sumber listrik utama guna mengoptimalkan efisiensi energi di area Laboratorium Listrik. Saya juga bertanggung jawab dalam pengambilan data teknis serta pemantauan parameter listrik pada sistem panel surya untuk memastikan output daya sesuai dengan perencanaan. Selain itu, saya menyusun laporan komprehensif mengenai kelayakan pemanfaatan energi surya sebagai sumber energi alternatif yang berkelanjutan di lingkungan operasional PPSDM Migas."
+    },
+    {
+        "company": "PLN UP2D JATENG & DIY",
+		"logo":"images/logo pln.png",
+        "position": "HAR/ Pemeliharaan",
+        "year": "Mei 2025 - Juli 2025",
+        "description": "Selama menjalani magang sebagai HAR/Pemeliharaan di PLN UP2D JATENG & DIY, saya terlibat dalam kegiatan inspeksi serta pemeliharaan peralatan di gardu induk guna menjaga kesiapan operasional. Saya juga mengikuti proses pengecekan dan pengisian baterai UPS untuk memahami pemeliharaan sistem catu daya cadangan. Selain itu, saya berkontribusi dalam perancangan dan perbaikan keypad Feeder Overcurrent Relay (MICOM P142) guna mendukung keandalan sistem proteksi."
+    }
+]

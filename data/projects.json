@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Perbaikan Keypad Feeder Overcurrent (Micom P142)",
+        "year": "2025",
+        "partner": "PT PLN UP2D Jateng & DIY",
+        "role": "Project Magang",
+        "description": "Melakukan desain, perakitan, dan pengujian rangkaian keypad pada feeder overcurrent (MICOM P124) troubleshooting serta perbaikan komponen untuk memastikan sistem proteksi bekerja optimal dan andal.",
+        "image": "images/Desain tanpa judul.png",
+        "link": ""
+    },
+    {
+        "title": "Perakitan Batrei Life PO4 dengan konfigurasi BMS",
+        "year": "2026",
+        "partner": "Universitas Semarang",
+        "role": "Tugas Akhir",
+        "description": "Membangun sistem baterai berbasis Lithium Iron Phosphate (LiFePO4) dengan konfigurasi Battery Management System (BMS) untuk meningkatkan keamanan dan performa baterai. Proyek ini mencakup proses perakitan sel baterai, integrasi BMS untuk proteksi overcharge, overdischarge, dan balancing sel, serta pengujian kinerja sistem. Sistem dirancang untuk memastikan stabilitas tegangan, efisiensi penggunaan energi, dan memperpanjang umur pakai baterai dalam aplikasi kelistrikan.",
+        "image": "images/Desain tanpa judul (1).png",
+        "link": ""
+    }
+] 

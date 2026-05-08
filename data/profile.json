@@ -1,0 +1,42 @@
+{
+    "name": "Rama Dika Hananda - Electrical Engineering Students",
+    "description": "Lulusan S1 Teknik Elektro  konsentrasi Elektronika dan Instrumentasi saya memiliki keahlian teknis dalam perancangan sistem kelistrikan, perakitan baterai, dan pembacaan diagram listrik. Berpengalaman praktis dalam pemeliharaan listrik serta penerapan standar K3. Seorang yang mudah beradaptasi , pekerja keras, dan memiliki minat besar pada pengembangan smart system melalui pemrograman dan analisis data. Memiliki minat pada bidang Energi Baru Terbarukan (EBT), sistem kontrol, serta pengembangan teknologi kelistrikan.",
+    "profileImage": "images/foto rama.jpg",
+    "email": "ramadikahananda@gmail.com",
+    "phone": "+62 857 4007 7682 ",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/rama-dika-hananda-496352322"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/davindradaff"
+        },
+        
+    
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/mbambul1?igsh=Y3VvbHQ3ajZ4OTJm&utm_source=qr"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cvrama.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Electrical Engineering", "icon": "fas fa-bolt"},
+        {"name": "Programming Microcontroller", "icon": "fas fa-microchip"},
+        {"name": "Programming PLC", "icon": "fas fa-network-wired"},
+        {"name": "Internet of Things", "icon": "fas fa-wifi"},
+        {"name": "Hardware Design", "icon": "fas fa-desktop"},
+	    {"name": "Mechanical Design", "icon": "fas fa-cogs"},
+        {"name": "Web Programming", "icon": "fab fa-js"},
+        {"name": "Comunication", "icon": "fab fa-globe"},
+        {"name": "Miscrosoft Office", "icon":  "fas fa-desktop"}, 
+	    {"name": "Team Work", "icon": "fas fa-globe"},
+        {"name": "marketing seller", "icon": "fas fa-globe"},
+        {"name": "care and maintenance", "icon": "fas fa-cogs"}  
+    ]
+}

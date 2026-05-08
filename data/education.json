@@ -1,0 +1,16 @@
+[
+    {
+        "university": "SMKN 8 Semarang",
+		"logo": "images/logo smk.jpeg",
+        "major": "Teknik Komputer dan Jaringan (TKJ)",
+        "year": "2019 - 2022",
+        "description": "Mempelajari perakitan komputer, pengenalan komponen hardware, serta dasar-dasar jaringan komputer."
+    },
+    {
+        "university": "Universitas Semarang",
+		"logo": "images/LOGO USMJAYA (1).png",
+        "major": "Sarjana Teknik Elektro",
+        "year": "2022 - 2026",
+        "description": "Saya merupakan lulusan Teknik Elektro dari Universitas Semarang. Pendidikan ini memberikan saya kesempatan untuk mempelajari berbagai aspek elektronika, pemrograman, dan perancangan teknik, sehingga mempersiapkan saya untuk berkarier di industri teknologi dan inovasi."
+    }
+]
